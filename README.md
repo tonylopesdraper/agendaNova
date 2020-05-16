@@ -1,4 +1,4 @@
-# agendaNova
+# Agenda Versão final
 Primeira Aplicação Python +  Django
 
 Muito feliz em ter iniciado meus estudos em Python. A aplicação que desenvolvi é parte do curso de Desenvolvimento em Python com Django, 
